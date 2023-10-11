@@ -2,7 +2,7 @@
 
 int main() {
 
-    printf("The maximum value is $780");
+    printf("The maximum value is $655");
 
     return 0;
 }
